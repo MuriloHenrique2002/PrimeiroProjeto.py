@@ -1,0 +1,6 @@
+#Crie um algoritmo que leia um número e mostre o seu dobro,triplo e raiz quadrada.
+n1=input('Coloque um numero: ')
+dobro = int(n1) * 2
+triplo= int(n1) * 3 
+raiz= float(n1) ** 0.5  
+print('o dobro deste numero é {} \n o triplo deste numero é {} \n e a raiz quadrada deste numero é {} '.format(dobro, triplo, raiz))
