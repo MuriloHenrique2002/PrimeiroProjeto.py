@@ -1,3 +1,2 @@
 # PrimeiroProjeto.py
-letra = 'Hello World'
-print(letra)
+print('Hello World')
