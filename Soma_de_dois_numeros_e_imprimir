@@ -1,0 +1,5 @@
+n1=int(input('Coloque o primeiro numero: '))
+n2=int(input('Coloque o segundo numero: '))
+x=n1+n2
+#print('A Soma entre', n1,'e',n2, 'é',x)
+print('A Soma entre {} e {} equivalente a : {}'.format(n1,n2,x))
